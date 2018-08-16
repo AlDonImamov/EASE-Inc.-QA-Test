@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-08-16T20:52:58Z" name="Default suite" finished-at="2018-08-16T20:53:15Z" duration-ms="17346">
+    <groups>
+    </groups>
+    <test started-at="2018-08-16T20:52:58Z" name="Default test" finished-at="2018-08-16T20:53:15Z" duration-ms="17346">
+      <class name="com.twitter.test.TwitterTest">
+        <test-method is-config="true" signature="beforeAllTestStart()[pri:0, instance:com.twitter.test.TwitterTest@757277dc]" started-at="2018-08-16T20:52:58Z" name="beforeAllTestStart" finished-at="2018-08-16T20:52:58Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllTestStart -->
+        <test-method is-config="true" signature="beforeEachTestStart()[pri:0, instance:com.twitter.test.TwitterTest@757277dc]" started-at="2018-08-16T20:52:58Z" name="beforeEachTestStart" finished-at="2018-08-16T20:53:02Z" duration-ms="4408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestStart -->
+        <test-method signature="tweet()[pri:0, instance:com.twitter.test.TwitterTest@757277dc]" started-at="2018-08-16T20:53:02Z" name="tweet" finished-at="2018-08-16T20:53:12Z" duration-ms="10043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tweet -->
+        <test-method is-config="true" signature="afterEachTestComplete()[pri:0, instance:com.twitter.test.TwitterTest@757277dc]" started-at="2018-08-16T20:53:12Z" name="afterEachTestComplete" finished-at="2018-08-16T20:53:15Z" duration-ms="2340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestComplete -->
+        <test-method is-config="true" signature="afterAllTestsComplete()[pri:0, instance:com.twitter.test.TwitterTest@757277dc]" started-at="2018-08-16T20:53:15Z" name="afterAllTestsComplete" finished-at="2018-08-16T20:53:15Z" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterAllTestsComplete -->
+      </class> <!-- com.twitter.test.TwitterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
